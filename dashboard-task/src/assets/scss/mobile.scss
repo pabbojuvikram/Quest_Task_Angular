@@ -1,0 +1,1210 @@
+@media screen and (min-width : 1367px){
+    .desktopHide{
+        display: none !important;
+    }
+    
+}
+@media screen and (min-width : 1024px) and (min-width : 1365px){
+    .desktopHide{
+        display: none !important;
+    }
+
+}
+@media screen and (min-width : 1024px) and (max-width : 1366px) and (orientation:portrait){
+   
+    
+}
+@media screen and (max-width : 1024px) and (orientation:landscape){
+    // contactus page
+
+    div.container.contact .connect {
+        color: #112950;
+        font-size: 30px !important;
+        font-weight: 700;
+        line-height: 40px;
+        text-align: left;
+    }
+
+    div.container.contact h2.address {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 20px;
+        text-align: left;
+    }
+
+    div.container.contact p.content {
+        color: #112950;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 15px;
+        opacity: 0.6345796131;
+        text-align: left;
+    }
+
+    div.container.contact label.Email.Id {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 15px;
+        text-align: left;
+        width: 100%;
+    }
+
+    div.container.contact p.mail {
+        color: #112950;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 15px;
+        opacity: 0.6345796131;
+        text-align: left;
+    }
+
+    div.container.contact h2.phone {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 15px;
+        text-align: left;
+        width: 100%;
+    }
+
+    div.container.contact p.phone_no {
+        color: #112950;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 15px;
+        opacity: 0.6345796131;
+        text-align: left;
+    }
+
+    div.container.contact .email_body.my-4 {
+        margin-bottom: 0.5rem !important;
+        margin-top: 0.5rem !important;
+    }
+
+    div.container.contact h2.social {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    div.container.contact img {
+        padding: 5px;
+    }
+  
+}
+@media screen and (max-width : 1023px){
+   
+}
+@media screen and (max-width : 767px){
+    body{
+        font-family: "Montserrat", sans-serif !important;
+    }
+    .navbar-brand{
+        padding-left: 20px !important;
+        width: 60% !important;
+    }
+ .banner .app-carousel .container .tile {
+     max-height: 208px !important;
+    //  width: 375px !important;
+ }
+ .tab-img{
+     width: 90px !important;
+     height: 90px !important;
+ }
+ 
+//  .card {
+//     width: 340px;
+//     float: left;
+//     margin: 0px 0px;
+//  }
+.image-hide{
+    display: none;
+  }
+    .img-fluid{
+        height: 65px !important;
+    }
+    .search-container input{
+        width:100% !important;
+       
+    }
+    .nav-pills > li{
+        padding-left:30px !important;
+    }
+    .locations-panel{
+        height: 80vh !important;
+        margin-top: 0px !important;
+        overflow-y: scroll !important;
+        z-index: 9999999 !important;
+        box-shadow: -5px 6px 10px -3px rgba(0, 0, 0, .4) !important;
+    }
+    .CityList{
+        margin:0px 15px !important;
+    }
+    .CityContainer>span:first-child{
+        padding-right:0px !important;
+    }
+    .cityWrapper>ul{
+        margin:0px !important;
+    }
+    #Chennai .cityWrapper, #Hyderabad .cityWrapper{
+        width:100% !important;
+    }
+    #btnClose{
+        right:10px !important;
+        top:20px !important;
+    }
+    .banner app-carousel .container{
+        margin-top:0px !important;
+        padding: 0px !important;
+    }
+    .banner app-carousel .container .tile{
+        height: 200px !important;
+    }
+    .search-container .row{
+        margin:0px !important;
+        // background-image: url(../images/mobileview-min.jpg);
+    }
+    .background-image{
+        background-image: url(../images/mobileview-min.jpg);
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .findhome{
+        height: 50px !important;
+        width: 100% !important;
+    }
+    .tab-layout .mat-tab-label{
+        padding: 0px 50px !important;
+    }
+    .coliveadv{
+        padding: 0px !important;
+    }
+    .app-coupleroom{   
+        width: 100% !important;
+        float: left !important;
+        margin-top: -50px !important;
+    }
+    .sharedRommHeading{
+        font-weight: 400 !important;
+        padding: 40px 0 0px !important;
+        width: 67% !important;
+        float: left !important;
+        font-size: 18px !important;
+    }
+    .carouselDiv {
+        width: 100% !important;
+        display: flex !important;
+        margin-right: -2px;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    .homepage-wrap .search-container h1{
+        color: white;
+        // line-height: 35px;
+        font-size: 27px !important;
+        padding: 3% 0 !important;
+        font-weight: 500 !important;
+    }
+    
+
+    .colive-info-box {
+        border-bottom: 5px solid #db1c72;
+    }
+    .lifestyle{
+      width: 100%;
+      display: inline;     
+    //   padding: 20px;  
+    }
+ .card {
+     width: 100%;
+     display: inline !important;
+
+    }
+    .rotate-icon{
+        float: right;
+        line-height: 2;
+    }
+    .colivelovesign{
+       float: left;
+       width: 100%;
+       display: contents;
+    }
+    // .d-xs-block{
+    //     padding: 15px;
+    // }
+    .d-xs-block{
+     padding: 3%;
+     font-size: 22px;
+     font-weight: 700;
+     font-weight: bolder;
+    }
+    .lifestyle{
+        position: relative !important;
+        display: inline-block !important;
+        float: left !important;
+        width: 100% !important;
+        background: white !important;
+        padding: 20px 10px !important;
+    }
+    .lifestyle-tab{
+        position: relative !important;
+        display: inline-block !important;
+        float: left !important;
+        width: 100% !important;
+    }
+    .lifestyleMobTab .card{
+        position: relative !important;
+        /* display: inline-block !important; */
+        float: left !important;
+        width: 100% !important;
+        padding: 0px !important;
+        border: none !important;
+        height: auto !important;
+    }
+    .lifestyleMobTab .svgimg{
+        margin-right: 0px !important;
+    }
+    .lifestyleMobTab .card-header{
+        margin-bottom: 20px !important;
+    }
+    .tablink.active{
+        background: deeppink !important;
+        color: white !important;
+        box-shadow: 0px 0px 10px 0px grey !important;
+        border-radius: 5px !important;
+        padding: 0px 7px !important;
+    }
+    .tab-layout .tablink{
+        width: 34% !important;
+        margin-right: 20px !important;
+    }
+    .contentActive{
+        margin-top: 20px !important;
+        background: unset !important;
+    }
+    .roomHeading{
+        font-size: 18px !important;
+        width: 65% !important;
+        padding: 0px !important;
+    }
+    .sharedCourosel .container1 img{
+        padding: 12px !important;
+    }
+    .sharedCourosel .card-data{
+        padding-left: 18px !important;
+    }
+    .loactionDiv{
+        display: none !important;
+    }
+    .cityWrapper {
+        display: flex !important;
+        display: -ms-flexbox !important;
+        flex-direction: column !important;
+        float: left !important;
+        line-height: 1 !important;
+        width: 50% !important;
+        padding: 10px 20px 10px 0px !important;
+    }
+    #Chennai, #Hyderabad{
+        width:100% !important;
+    }
+    #Chennai .cityWrapper, #Hyderabad .cityWrapper{
+        width: 28% !important;
+    }
+ .Add-Panel{
+        // padding: 100px !important;
+        padding: 0px !important;
+        margin: 0 auto !important;
+    }
+    .add-image .ngu-touch-container{
+        overflow:  hidden !important;
+    }
+    .add-image .ngucarousel{
+        overflow:  visible !important;
+    }
+    .members{
+        padding: 15px !important;
+        position: relative !important;
+    }
+    .box1{
+        top: -55px !important;
+        margin-right: 5px !important;
+    }
+    .box{
+        top: -50px !important;
+        right: 50px !important;
+    }
+    // .members .container{
+    //     width: 70% !important;
+    //     float: left !important;
+    //     top: -11px !important;
+    //     /* left: 0px; */
+    //     position: absolute !important;
+    //     display: inline-block !important;
+    //     text-align: left !important;
+    // }
+    .members .container .text-center{
+        text-align: left !important;
+        width: 57% !important;
+        float: left !important;
+        top: -11px !important;
+        /* left: 0px; */
+        position: absolute !important;
+        display: inline-block !important;
+        text-align: left !important;
+    }
+    .location{
+        padding: 15px !important;
+    }
+    .tile {
+        width: 324px;
+        min-height: 200px;
+        background-color: white;
+        background-size: cover !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        position: relative;
+        display: inline-block;
+        border-radius: 3px;
+    }    
+    #footer{
+        padding: 0px !important;
+    }
+    #footer .mat-expansion-panel{
+        box-shadow: none !important;
+    }
+    .footerMobile-panel{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    #footer .card-list{
+        padding:0px 0px 0px 20px !important;
+    }
+    .login-wrap{
+        padding: 15px 15px !important;
+    }
+    .logo-icon{
+        width: 100% !important;
+        display: inline-flex !important;
+        justify-content: center !important;
+        margin-bottom: 20px !important;
+    }
+    .logo-icon img{
+        height:80px !important;
+    }
+    .privicy-polciy ul{
+        padding: 0px !important;
+    }
+     .dynamicPropertiesHeader{
+    display: inline !important;
+    left: 0px !important;
+    }
+    .mapview{
+        margin-left: 0px !important;
+    }
+    .morefilter{
+        position: absolute !important;
+        right: 20px !important;
+        bottom: 30px !important;
+    }
+    .mapview form{
+        width: 100% !important;
+    }
+    .filter-section {
+        // position: fixed !important;
+        width: 90% !important;
+        padding: 10px !important;
+        height: 375px !important;
+        margin-top: 190px !important;
+    }
+    .filterBackgroundPatch{
+        top: 280px !important;
+    }
+    .filterCloseIcon{
+        z-index: 9999 !important;
+    }
+    .propertyList-panel{
+        margin-top:250px !important;
+        padding: 5px !important;
+    }
+    .propertyList-panel .card{
+        margin:0px 0px 10px 5px !important;
+    }
+    .map-section{
+        margin-top: 230px !important;
+    }
+    .map-panel{
+        margin-left: 0px !important;
+        width: 100% !important;
+    }
+    .accordin-para{
+      width: 80% !important;
+    display: inline-block !important;
+    }
+    .dynamicPropertiesHeader .mat-radio-group{
+        height: auto !important;
+        display: inline-block !important;
+        width: 100% !important;
+        position: unset !important;
+    }
+    .Photo>img{
+        margin-bottom: 20px;
+    }
+    .features{
+        padding: 20px 25px !important;
+    }
+    .feature-image{
+      width: 90px !important;
+      height: 90px !important;
+    }
+    .social-image {
+  text-align: center !important;
+    }
+    // community page
+
+    .community{
+     padding-top: 20px !important;
+    }
+    // Aboutus Page
+    section{
+        padding: none !important;
+    }
+    section.about-us{
+        padding: 0px !important;
+    }
+    .icon-box{
+        width: 100% !important;
+        // display: inline;
+    }
+    .img-fluid{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .mapviewhide{
+        display: none !important;
+    }
+    .upgradeColiveContent{
+        width:100% !important;
+        height: 100% !important;
+    }
+    .gridview{
+        width:100% !important;
+    }
+    .gridview1{
+        width:100% !important;
+        padding: 20px !important;
+    }
+    .mapViewContent-section{
+        margin: 0px !important;
+    }
+    .product-wrap .second-section {
+        background: white !important;
+        padding: 15px !important;
+    }
+    // Detailed page component
+    // .product-wrap{
+    //      padding: 15px 15px !important;
+    // }
+    // .product-wrap.first-section.info{
+    //   padding: 0px !important;
+    //    width: 100% !important;
+    // }
+    // .marathalli-img{
+    //     width: 390px !important;
+    //     height: 450px !important;
+    //     display: none !important;
+        
+    //   }
+    .graphical-info{
+        width: 100% !important;
+    }
+    .terms{
+        width: 100% !important;
+        overflow-x: scroll !important;
+    }
+    .promises-box-panel{
+        width: 110% !important;
+    }
+    .Propertysection{
+        padding: 20px !important;
+    }
+    .noimage-panel{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .noimage-panel img{
+        width: 100% !important;
+    }
+    .Propertysection-panel{
+        margin-top: -35px;
+        height: 478px;
+    }
+    .Propertysection-panel>h6{
+        padding: 20px !important;
+    }
+    .info .location{
+        padding: 5px !important;
+    }
+    .locationDescriptionInDetailed{
+        margin-left: 20px !important;
+        margin-top: 45px;
+    }
+    #spnPropDesc{
+        width: 0px !important;
+    }
+    .detail-info{
+        padding-top: 0px !important;
+    }
+    .detail-info > h5{
+     margin-top:10px;
+    }
+    .graphical-info,.terms{
+        margin: 0px !important;
+        margin-bottom: 20px !important;
+    }
+    .promises{
+        padding: 20px !important;
+        padding-bottom: 0px !important;
+    }
+    .AmenitiesheightSet{
+        position: relative !important;
+    }
+    .btnShowextraamenity{
+        margin:0px !important;
+    }
+    .hexagonAlignOne,.clip-block{
+        display: inline-flex !important;
+        width: 100% !important;
+        justify-content: center !important;
+        left: 0px !important;
+        top:0px !important;
+        right:0px !important;
+        position: relative !important;
+        float: left !important;
+    }
+    .diagnoalItem-panel{
+        position: relative !important;
+        display: inline-block !important;
+        // float: left !important;
+        width: 100% !important;
+        padding-bottom: 0px !important;
+        left: 0 !important;
+        // margin-left: -16px !important;
+    }
+    .diagnoalItem-panel:nth-child(1) {
+
+        margin-bottom: -19px !important;
+        margin-left: -12px !important;
+    }
+    .diagnoalItem-panel:nth-child(3){
+        margin-left: -16px !important;
+        margin-top: -5px !important;
+    
+    }
+    .second-section{
+        margin: 0px !important;
+    }
+    .clip-svg{
+        height: 1px !important;
+    }
+    .hexagonwrap>.row{
+        padding-bottom: 0px !important;
+    }
+    .cdk-overlay-pane{
+        max-width: 100% !important;
+        max-height: 100% !important;
+        pointer-events: auto;
+        width: 90% !important;
+        // position: static;
+        overflow-y: scroll;
+        // overflow-y: hidden !important;
+    }
+    // mobile view booknow and schedulevisit
+
+
+    .first-section .side-fixed{
+        position: relative !important;
+        display: inline-block !important;
+        float: left !important;
+        width: 100% !important;
+    }
+    .first-section .side-fixed .schedule-booknow-box{
+        left: 0 !important;
+        bottom: 0 !important;
+        top: unset !important;
+        width: 100% !important;
+        display: inline-block !important;
+        float: left !important;
+        right: unset !important;
+        transform: unset !important;
+        transform-origin: unset !important;
+    }
+    .first-section .side-fixed .schedule-booknow-box .schedule{
+        display: inline-block !important;
+        float: left !important;
+        margin: 0px !important;
+        width: 50% !important;
+        transform: unset !important;
+    }
+    .first-section .side-fixed .schedule-booknow-box .booknow{
+        display: inline-block !important;
+        float: left !important;
+        width: 50% !important;
+        transform: unset !important;
+        margin: 0 !important;
+    }
+    .scheduleCard-section .side-fixed{
+        height: unset !important;
+    }
+
+    // mobile scroll bars 
+
+    /* width */
+::-webkit-scrollbar {
+    width: 6px;
+    overflow-x: hidden;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); 
+    border-radius: 10px;
+    overflow-x: hidden;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 0 5px #c7216b;
+    background: #e69dbf;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background:  #e69dbf;
+    overflow-x: hidden; 
+  }
+  .yay-schedule-content {
+    // margin-top: -805px !important;
+    // margin-left: 1008px;
+    background: #e69dbf !important;
+    margin-top: -827px !important;
+    position: absolute !important;
+    z-index: 9 !important;
+    margin-left: 56px !important;
+    // line-height: 30px !important;
+  }
+  // contactus page
+
+  .container.map {
+    padding: 15px;
+}
+div.container.contact .connect {
+    color: #112950;
+    font-size: 30px !important;
+    font-weight: bolder !important;
+    line-height: 40px !important;
+    text-align: center !important;
+    font-family: "Montserrat", sans-serif !important;
+}
+div.container.contact h2.address {
+    color: #112950 !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    font-family: "Montserrat", sans-serif !important;
+}
+div.container.contact p.content{
+    color: #112950 !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    line-height: 19px !important;
+    opacity: 0.6345796130952381 !important;
+    text-align: center !important;
+    font-family: "Montserrat", sans-serif !important;
+}
+div.container.contact h2.phone {
+    color: #112950 !important;
+    font-size: 15px !important;
+    font-weight: bolder !important;
+    line-height: 10px !important;
+    text-align: center !important;
+    width: 100% !important;
+    font-family: "Montserrat", sans-serif !important;
+    margin-bottom: 16px !important;
+}
+.container.map .col-12.col-md-5 {
+    min-width: 100% !important;
+}
+
+.container.map .well.well-sm {
+    padding: 0px 0px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container.map .send-message {
+    text-align: center;
+}
+
+.container.map h3.text-xs-center.header {
+    color: #112950;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+    padding: 0px 18px;
+}
+div.container.contact h2.social {
+    color: #112950 !important;
+    font-size: 20px !important;
+    font-weight: bolder !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    margin-left: 10px !important;
+}
+
+.container.map input.form-control {
+    padding: 6px 10px !important;
+}
+
+.container.map .col-12.col-md-7.fullwidth {
+    min-width: 100%;
+    padding: 50px;
+}
+
+.container.map h3.On_map {
+    color: #112950;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+}
+.contact-apply-openings h3 {
+    text-align: center;
+}
+.contact-apply-openings .cant-find {
+    display: contents;
+}
+.contact-apply-openings .cant-find p {
+    font-size: 23px;
+    text-align: center;
+}
+.col-md-12.cont_find {
+    background: #7ac7e54f;
+    padding: 14px 14px 15px 15px;
+}
+
+.col-12.col-md-4 {
+    padding: 10px;
+}
+.submit-our {
+    background-color: #7ac7e54f;
+    width: 100%;
+    height: 37px;
+    border: 2px solid #324B72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px auto 0;
+    cursor: pointer;
+}
+.col-md-4.Check_out {
+    padding: 0px 0px;
+    margin: 0 auto;
+}
+.new-tabs{
+    width: 100% !important;
+    position: relative !important;
+    display: inline-block !important;
+    padding: 0px !important;
+
+}
+// career page
+.career-wrap {
+    // margin-top: 0px !important;
+    padding: 0px !important;
+}
+.col-md-3 .card-img-top {
+    min-height: 211px !important;
+    margin: 8px auto !important;
+}
+.img-size-440{
+    height: 520px;
+    margin: 8px auto !important;
+}
+.img-size-211{
+    height: 318px !important;
+    margin: 8px auto !important;
+}
+.img-size-262{
+ height: 360px !important;
+
+}
+.img-size-262{
+    height: 350px;
+    margin: 8px auto !important;
+}
+.career-wrap .perks .icon-box-wrap {
+    display: block !important;
+    margin-bottom: 10px !important;
+}
+
+    .career-wrap .perks .icon-box-wrap .icon-box {
+        height: 155px !important;
+        margin: 30px auto !important;
+        width: 50% !important;
+    }
+    // .icon-box{
+    //     width: none !important;
+    // }
+
+        .career-wrap .perks .icon-box-wrap .icon-box p {
+            font-size: 17px !important;
+            line-height: 20px !important;
+            height: auto !important;
+        }
+
+.career-wrap .apply-openings .apply-wrap {
+    padding: 20px 20px !important;
+}
+// .col-md-3 .card-img-top {
+//     min-height: 211px !important;
+//     margin: 8px auto !important;
+// }
+.career-wrap .perks .icon-box-wrap {
+    display: block !important;
+    margin-bottom: 10px !important;
+}
+// partners Page starts here
+
+body {
+    font-size: 14px !important;
+
+}
+.partner-with-us-wrap{
+    padding: 0px !important;
+}
+.partner-with-us-wrap .banner .content {
+    display: block !important;
+    justify-content: center !important;
+    align-items: center !important;
+    position: absolute !important;
+    width: 100% !important;
+    top: 16vh !important;
+    bottom: 0 !important;
+}
+.partner-with-us-wrap .banner .content .right-content h1 {
+    font-size: 36px !important;
+    text-align: center !important;
+    font-weight: bolder !important;
+    line-height: 52px !important;
+}
+.partner-with-us-wrap .second-section h2 {
+    color: #324B72;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    width: 100% !important;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.partner-with-us-wrap .second-section p {
+    color: #324B72 !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 23px !important;
+    opacity: 0.9000000358 !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+.partners-block {
+    height: 540px !important;
+    overflow: hidden !important;
+    overflow-y: scroll !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        align-items: center !important;
+}
+.partner-with-us-wrap .partners-section .partners-block-wrap {
+    height: auto !important;
+    margin-bottom: 30px !important;
+}
+.col-6 {
+    -webkit-box-flex: 0 !important;
+    // -ms-flex: 0 0 50%;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+}
+.partner-with-us-wrap .partners-section .partners-block-wrap .partners-block .partner-logo {
+    width: 110px !important;
+}
+.partnersWrapper {
+    width: 193px !important;
+    height: 0px !important;
+    padding: 40px 26px !important;
+}
+.partner-with-us-wrap .banner .content .left-content {
+    margin: 0 130px !important;
+}
+// .partner-with-us-wrap .partners-section .pay-pal-wrap,
+// .partner-with-us-wrap .partners-section .partners-block-wrap {
+//     height: auto;
+//     margin-bottom: 30px;
+// }
+
+// .partner-with-us-wrap .partners-section .col-md-4,
+// .partner-with-us-wrap .partners-section .col-md-8 {
+//     min-width: 100%;
+//     padding: 0;
+// }
+
+// .partner-with-us-wrap .partners-section .partners-block-wrap .partner-logo {
+//     height: 80px;
+//     width: 90px;
+//     margin: 10px;
+// }
+
+//     .partner-with-us-wrap .partners-section .partners-block-wrap .partner-logo img {
+//         width: 100%;
+//         max-height: unset !important;
+//     }
+
+// .partner-with-us-wrap .partners-section .want-partner-with-us .text-content {
+//     width: 60%;
+// }
+
+// .partner-with-us-wrap .partners-section .col-12.col-md-4 {
+//     padding: 0;
+// }
+
+// .partner-with-us-wrap .partners-section .pay-pal-wrap .learn-more p {
+//     width: 50%;
+//     margin: 0 auto;
+// }
+
+// .partner-with-us-wrap .partners-section .partners-block-wrap .partners-block .partner-logo {
+//     width: 110px;
+// }
+.partner-with-us-wrap .partners-section .partners-block-wrap .partners-block .partner-logo {
+    height: 55px !important;
+    width: 125px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.partner-with-us-wrap .partners-section .want-partner-with-us .text-content p{
+font-size: 16px !important; 
+}
+.partner-with-us-wrap .partners-section .want-partner-with-us .text-content span {
+    color: #84A2D1;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 23px !important;
+}
+.want-partner-with-us{
+display: inline-block !important;
+text-align: center !important;
+padding: 90px !important;
+}
+// .want-partner-with-us.handshake{
+//     margin-bottom: 20px !important;
+//     display: contents !important;
+// }
+.partner-with-us-wrap .partners-section .want-partner-with-us .handshake{
+     margin-bottom: 20px !important;
+     text-align: unset !important;
+     width: unset !important;
+}
+.partner-with-us-wrap .partners-section .want-partner-with-us .contact-button {
+    background-color: #EF0073;
+    border: 2px solid #EF0073;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    right: 115px !important;
+    /* line-height: 164px; */
+    margin-top: 18px !important;
+}
+// cowork 247
+
+.cowork-wrap .enquiry-form {
+    padding: 2%;
+}
+.cowork-wrap .enquiry-form .tour {
+    padding: 10% 20px 0px 20px;
+}
+.YourSpace{
+font-size: 21px !important;
+}
+.cowork-wrap .main-cowork .btn-View {
+ margin-top: 0px !important;
+}
+// header component login
+.dropdown-toggle1 {
+    position: absolute !important;
+    display: inline-block !important;
+    float: right !important;
+    margin-top: 4px !important;
+    padding: 9px !important;
+} 
+
+//   767 ends here   //
+}
+@media screen and (max-width : 320px){
+    .sitemap_wrap .ool {
+        display: none;
+        height: 400px !important;
+        padding-top: 25% !important;
+    }
+    // partner page
+
+    .partnersWrapper {
+        max-height: 447px !important;
+        overflow-y: hidden !important;
+    }    
+    
+}
+@media (max-width: 425px) {
+    // contactus page
+    div.container.contact .connect {
+        color: #112950;
+        font-size: 21px;
+        font-weight: 700;
+        line-height: 40px;
+        text-align: center;
+        width: 100%;
+    }
+
+    div.container.contact p.content {
+        color: #112950;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 19px;
+        opacity: 0.6345796131;
+        text-align: center;
+        margin: 0px 20px;
+    }
+
+    div.container.contact .email_body {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    div.container.contact h2.address {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    div.container.contact label.Email.Id {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        width: 100%;
+        line-height: 10px;
+        text-align: center;
+    }
+
+    div.container.contact p.mail {
+        color: #112950;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 19px;
+        opacity: 0.6345796131;
+        text-align: center;
+    }
+
+    div.container.contact h2.phone {
+        color: #112950;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 10px;
+        text-align: center;
+        width: 100%;
+    }
+
+    div.container.contact p.phone_no {
+        color: #112950;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 19px;
+        opacity: 0.6345796131;
+        text-align: center;
+    }
+
+    div.container.contact h2.social {
+        color: #112950;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    div.container.contact img {
+        padding: 1px;
+    }
+
+    div.container.contact .col-12.col-md-3 {
+        text-align: center;
+    }
+    //
+    .container.map .send-message {
+        text-align: center;
+    }
+
+    .container.map .well.well-sm {
+        padding: 0px 0px !important;
+        width: 100% !important;
+        margin: 0 auto;
+    }
+
+    .container.map .col-12.col-md-7.fullwidth {
+        display: none;
+    }
+
+    .container.map ::placeholder {
+        color: #112950;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        text-align: left;
+    }
+// cowork 247   
+.cowork-wrap .enquiry-form .fill {
+    font-size: 15px;
+    padding: 10px 0px;
+}
+
+
+
+    // 425 ends here
+}
+@media screen and (max-width : 500px){
+    .partner-with-us-wrap .banner .content .right-content{
+        margin: 0 10px !important;
+    }
+    .partner-with-us-wrap .second-section {
+        padding: 50px 0 !important;
+    }    
+}
